@@ -10,7 +10,6 @@ import models.Role;
 import dataaccess.UserDB;
 import java.util.ArrayList;
 import java.util.List;
-import exceptions.InvalidFieldsException;
 
 //Get users from dataaccess
 public class UserService {
